@@ -14,6 +14,7 @@
 
 Below are some repositories that reflect my current focus on learning, problem solving, and backend development.
 
-![Top Repositories](https://github-contributor-stats.vercel.app/api?username=MohamedHossam004&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedHossam004&show_icons=true&theme=shades-of-purple)
+
 
 🔹 More projects will be added as I continue improving my backend and algorithmic skills.
