@@ -1,4 +1,3 @@
-### 💫 About Me:
 ## 👋 About Me<br><br>Computer Science student with strong problem-solving skills and 500+ solved problems on Codeforces.  <br>Experienced in Java, Python, C++, and backend-oriented projects, with solid foundations in data structures, networking, and operating systems.<br><br>Currently focusing on backend development and advanced problem solving.<br>
 
 
