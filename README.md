@@ -10,6 +10,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=MohamedHossam004&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MohamedHossam004&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHossam004&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 📌 Featured Work
-
-Below are some repositories that reflect my current focus on learning, problem solving, and backend development.
